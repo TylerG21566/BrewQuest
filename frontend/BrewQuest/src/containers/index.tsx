@@ -1,0 +1,14 @@
+// This file is for tidying imports elsewhere.
+export { default as GamePin } from './GamePin';
+export { default as Landing } from './Landing';
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as QuizEdit } from './QuizEdit';
+export { default as QPC } from './ClientGame/QuestionPageClient';
+export { default as QuizListPage } from './QuizListPage';
+export { default as Leaderboard } from './ClientGame/Leaderboard';
+export { default as Logout } from './Logout';
+export { default as Host } from './Host';
+export { default as EditProfile } from './EditProfile';
+export { default as GameLobby } from './ClientGame/GameLobby';
+export { default as ClientGame } from './ClientGame/ClientGame';

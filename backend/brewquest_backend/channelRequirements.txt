@@ -1,0 +1,6 @@
+#install channels cant remember how to just do it yk
+# install daphne using:
+
+python -m pip install -U 'channels[daphne]'
+
+https://channels.readthedocs.io/en/latest/installation.html#installation

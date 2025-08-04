@@ -1,0 +1,9 @@
+.start_icon {
+  width: 1.5em;
+  height: auto;
+  /* clean up button css */
+  position: absolute;
+right: 10px;
+top: 5px;
+  
+}
